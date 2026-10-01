@@ -10,7 +10,7 @@ WHAT IT DOES
 8C_streamdeck_TJ_V1 talks directly to your 8c speakers over your local network, using the same local API as the speakers' own web app (Ascend). You get all your everyday controls on physical buttons and dials. The displays update live, even when you change something from the web app.
 
 Keys (all Stream Deck models)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------
 
 - Volume + / Volume − : Raises or lowers the volume by an adjustable step (0.5 to 6 dB). Hold the key to keep changing it. The key shows the current level in dB.
 - Mute : Mutes or unmutes. The key turns red when muted.
@@ -28,7 +28,7 @@ Keys (all Stream Deck models)
 Keys set to a fixed choice (a source, voicing, preset, Room Matching profile, XLR mode or level) light up when that choice is active. Put several side by side and you get an instant selector.
 
 Dial and touch strip (Stream Deck +)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------
 
 - Rotate: volume.
 - Rotate while pressing: fine volume adjustment.
@@ -48,7 +48,7 @@ The touch strip shows, live:
 - a volume bar.
 
 Connection
-~~~~~~~~~~
+------------
 
 - Automatic discovery of the speakers on the network, or enter the IP address of either speaker.
 - The plugin finds and follows the master speaker of the pair on its own.
